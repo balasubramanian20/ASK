@@ -1,14 +1,14 @@
-EXP 5 AMPLITUDE SHIFT KEYING
-LAVANYA K
-212223060134
-WRITE A SIMPLE ASK PROGRAM USING PHYTON
-AIM
+## EXP 5  AMPLITUDE SHIFT KEYING
+# LAVANYA K
+# 212223060134
+# WRITE A SIMPLE ASK PROGRAM USING PHYTON
+# AIM
 To perform Amplitude Shift Keying{ASK} using Python
 
-APPARATUS REQUIRED:
+# APPARATUS REQUIRED:
 Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
 
-PROGRAM
+# PROGRAM
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -57,14 +57,14 @@ plt.title('Decoded Bits')
 plt.tight_layout()
 plt.show()
 ```
-OUTPUT WAVEFORM
+# OUTPUT WAVEFORM
 ![image](https://github.com/user-attachments/assets/69650e78-6a01-4b4f-ad98-9e13a9d97259)
 
 
-Graph
+# Graph
 ![WhatsApp Image 2025-04-16 at 13 29 26_0483f18f](https://github.com/user-attachments/assets/587bb0fe-701e-409c-b30d-49f6c8dcd0bf)
 
 
 
-Result
+# Result
 THUS THE ASK (Amplitude Shift Keying) IS PERFORMED USING PYTHON
