@@ -56,6 +56,9 @@ plt.show()
 
 ### Output:
 ![image](https://github.com/user-attachments/assets/1507b16c-c4e1-4887-8a16-179ab00dea52)
+![0f317eb3-c891-4a40-9f0b-2f804ca0ae7e](https://github.com/user-attachments/assets/3e6bdca9-3f8b-499c-9ce8-0ab731559172)
+
+
 
 ### Results:
       Amplitude Shift Keying (ASK) will be displayed in separate plots. Thus implemented using python colab.
